@@ -1,11 +1,12 @@
 # Brand Mockup
 
 <p align="center">
-  <img src="docs/demo-9x16.gif" alt="Exemplo 9:16 — TGL Solutions" height="480">
-  &nbsp;&nbsp;
-  <img src="docs/demo-16x9.gif" alt="Exemplo 16:9 — TGL Solutions" height="270">
+  <picture>
+    <source media="(max-width: 767px)" srcset="docs/demo-9x16.gif">
+    <img src="docs/demo-16x9.gif" alt="Exemplo gerado para a TGL Solutions">
+  </picture>
 </p>
-<p align="center"><sub>Exemplo gerado para a TGL Solutions (9:16 e 16:9). O GIF é mudo — o vídeo final sai em MP4 com trilha.</sub></p>
+<p align="center"><sub>Exemplo gerado para a TGL Solutions: 16:9 no desktop, 9:16 no celular. O GIF é mudo — o vídeo final sai em MP4 com trilha.</sub></p>
 
 Gera um vídeo **brand reveal em stop-motion** para qualquer marca:
 construção geométrica do símbolo → revelação → ~35 cortes rápidos de mockups fotográficos
