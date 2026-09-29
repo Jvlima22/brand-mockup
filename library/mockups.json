@@ -1,0 +1,583 @@
+{
+ "mug": {
+  "file": "fotos/mug.jpg",
+  "categoria": "merch",
+  "tom": 0.8,
+  "anchor": [
+   1667,
+   1075
+  ],
+  "ls": 170,
+  "material": {
+   "type": "ink",
+   "color": "primary",
+   "texture": 0.9
+  },
+  "credit": {
+   "autor": "Mediamodifier",
+   "link": "https://unsplash.com/pt-br/fotografias/uma-caneca-de-cafe-branca-xf38DdLyBvI",
+   "licenca": "Unsplash License"
+  }
+ },
+ "coffee": {
+  "file": "fotos/coffee.jpg",
+  "categoria": "merch",
+  "tom": 0.76,
+  "anchor": [
+   1597,
+   1350
+  ],
+  "ls": 185,
+  "material": {
+   "type": "ink",
+   "color": "dark",
+   "texture": 0.9
+  },
+  "credit": {
+   "autor": "Clair",
+   "link": "https://unsplash.com/pt-br/fotografias/uma-xicara-de-cafe-branca-com-uma-tampa-preta-c1jSLqPWjQ8",
+   "licenca": "Unsplash License"
+  }
+ },
+ "tote": {
+  "file": "fotos/tote.jpg",
+  "categoria": "merch",
+  "tom": 0.61,
+  "anchor": [
+   1613,
+   1250
+  ],
+  "ls": 215,
+  "erase": [
+   {
+    "type": "ellipse",
+    "e": [
+     2107,
+     1867,
+     70,
+     70
+    ],
+    "method": "fill"
+   }
+  ],
+  "material": {
+   "type": "ink",
+   "color": "dark",
+   "texture": 1.3,
+   "opacity": 0.92
+  },
+  "credit": {
+   "autor": "Brando Makes Branding",
+   "link": "https://unsplash.com/pt-br/fotografias/saco-reutilizavel-branco-na-superficie-cinzenta-smTDI-z1rlY",
+   "licenca": "Unsplash License"
+  }
+ },
+ "cap": {
+  "file": "fotos/cap.jpg",
+  "categoria": "merch",
+  "tom": 0.71,
+  "anchor": [
+   1600,
+   1640
+  ],
+  "ls": 250,
+  "material": {
+   "type": "embroidery",
+   "color": "dark"
+  },
+  "credit": {
+   "autor": "personalgraphic.com",
+   "link": "https://unsplash.com/pt-br/fotografias/um-bone-de-beisebol-branco-em-um-fundo-cinza-ozdzzeBu4Go",
+   "licenca": "Unsplash License"
+  }
+ },
+ "bottle": {
+  "file": "fotos/bottle.jpg",
+  "categoria": "merch",
+  "tom": 0.71,
+  "anchor": [
+   1573,
+   930
+  ],
+  "ls": 140,
+  "material": {
+   "type": "ink",
+   "color": "primary",
+   "texture": 1.0
+  },
+  "credit": {
+   "autor": "personalgraphic.com",
+   "link": "https://unsplash.com/pt-br/fotografias/uma-garrafa-branca-com-uma-tampa-preta-OUjR8lrGccs",
+   "licenca": "Unsplash License"
+  }
+ },
+ "notebook": {
+  "file": "fotos/notebook.jpg",
+  "categoria": "papelaria",
+  "tom": 0.52,
+  "anchor": [
+   1330,
+   2450
+  ],
+  "ls": 300,
+  "16x9": {
+   "ls": 186
+  },
+  "material": {
+   "type": "foil",
+   "dark": 0.45
+  },
+  "credit": {
+   "autor": "Cinthya González",
+   "link": "https://unsplash.com/pt-br/fotografias/um-caderno-azul-e-uma-caneta-em-uma-superficie-azul-ReYnnUhN0DA",
+   "licenca": "Unsplash License"
+  }
+ },
+ "stationery": {
+  "file": "fotos/stationery.jpg",
+  "categoria": "papelaria",
+  "tom": 0.9,
+  "anchor": [
+   1635,
+   1300
+  ],
+  "ls": 200,
+  "16x9": {
+   "ls": 186
+  },
+  "material": {
+   "type": "ink",
+   "color": "primary",
+   "texture": 0.8
+  },
+  "credit": {
+   "autor": "Elena Joland",
+   "link": "https://unsplash.com/pt-br/fotografias/papel-de-impressora-branco-na-mesa-de-madeira-marrom-oCdG2sTjDDQ",
+   "licenca": "Unsplash License"
+  }
+ },
+ "envelope": {
+  "file": "fotos/envelope.jpg",
+  "categoria": "papelaria",
+  "tom": 0.58,
+  "anchor": [
+   1600,
+   1300
+  ],
+  "ls": 205,
+  "material": {
+   "type": "seal",
+   "color": "primary"
+  },
+  "credit": {
+   "autor": "Valeria Reverdo",
+   "link": "https://unsplash.com/pt-br/fotografias/um-envelope-branco-sobre-fundo-preto-Axli9F0n26A",
+   "licenca": "Unsplash License"
+  }
+ },
+ "card": {
+  "file": "fotos/card.jpg",
+  "categoria": "papelaria",
+  "tom": 0.39,
+  "anchor": [
+   1720,
+   1000
+  ],
+  "ls": 165,
+  "rot": -7.3,
+  "material": {
+   "type": "ink",
+   "color": "white",
+   "texture": 0.3
+  },
+  "credit": {
+   "autor": "Giorgio Trovato",
+   "link": "https://unsplash.com/pt-br/fotografias/pessoa-segurando-papel-retangular-preto-qlNNYxkKoDc",
+   "licenca": "Unsplash License"
+  }
+ },
+ "credit": {
+  "file": "fotos/credit.jpg",
+  "categoria": "digital",
+  "tom": 0.81,
+  "anchor": [
+   1640,
+   1110
+  ],
+  "ls": 150,
+  "material": {
+   "type": "ink",
+   "color": "primary",
+   "texture": 0.8
+  },
+  "credit": {
+   "autor": "Claire Abdo",
+   "link": "https://unsplash.com/pt-br/fotografias/uma-pessoa-segurando-um-cartao-de-visita-no-meio-de-uma-rua-sfXvD9MlMds",
+   "licenca": "Unsplash License"
+  }
+ },
+ "badge": {
+  "file": "fotos/badge.jpg",
+  "categoria": "digital",
+  "tom": 0.24,
+  "anchor": [
+   1400,
+   3250
+  ],
+  "ls": 240,
+  "rot": -2.0,
+  "16x9": {
+   "ls": 186
+  },
+  "material": {
+   "type": "ink",
+   "color": "primary",
+   "texture": 0.8
+  },
+  "credit": {
+   "autor": "Jelly Marketing",
+   "link": "https://unsplash.com/pt-br/fotografias/pessoa-de-camisa-azul-marinho-com-distintivo-Eot2s-vadG0",
+   "licenca": "Unsplash License"
+  }
+ },
+ "fleece": {
+  "file": "fotos/fleece.jpg",
+  "categoria": "merch",
+  "tom": 0.45,
+  "anchor": [
+   1200,
+   2550
+  ],
+  "ls": 290,
+  "16x9": {
+   "ls": 135
+  },
+  "material": {
+   "type": "screenprint",
+   "color": "white",
+   "texture": 0.5
+  },
+  "credit": {
+   "autor": "Tim Mossholder",
+   "link": "https://unsplash.com/pt-br/fotografias/homem-de-moletom-preto-e-shorts-jeans-cinza-sentados-na-rocha-marrom-durante-o-dia-hNpi9jyG4oY",
+   "licenca": "Unsplash License"
+  }
+ },
+ "emboss": {
+  "file": "fotos/emboss.jpg",
+  "categoria": "merch",
+  "tom": 0.64,
+  "anchor": [
+   1600,
+   1066
+  ],
+  "ls": 170,
+  "material": {
+   "type": "patch",
+   "color": "dark"
+  },
+  "credit": {
+   "autor": "Marcus Urbenz",
+   "link": "https://unsplash.com/pt-br/fotografias/tecido-de-malha-azul-e-branco-TswHJKSA5X8",
+   "licenca": "Unsplash License"
+  }
+ },
+ "pin": {
+  "file": "fotos/pin.jpg",
+  "categoria": "merch",
+  "tom": 0.77,
+  "anchor": [
+   1600,
+   1013
+  ],
+  "ls": 280,
+  "material": {
+   "type": "ink",
+   "color": "primary",
+   "texture": 0.8
+  },
+  "credit": {
+   "autor": "mockupbee",
+   "link": "https://unsplash.com/pt-br/fotografias/um-objeto-circular-com-um-centro-verde-hAlBwEdhvwQ",
+   "licenca": "Unsplash License"
+  }
+ },
+ "keychain": {
+  "file": "fotos/keychain.jpg",
+  "categoria": "merch",
+  "tom": 0.24,
+  "anchor": [
+   1620,
+   1093
+  ],
+  "ls": 165,
+  "material": {
+   "type": "ink",
+   "color": "dark",
+   "texture": 0.8
+  },
+  "credit": {
+   "autor": "Priscilla Du Preez 🇨🇦",
+   "link": "https://unsplash.com/pt-br/fotografias/cartao-retangular-branco-e-cinza-zCQaUS8R6fw",
+   "licenca": "Unsplash License"
+  }
+ },
+ "sticker": {
+  "file": "fotos/sticker.jpg",
+  "categoria": "papelaria",
+  "tom": 0.2,
+  "anchor": [
+   1440,
+   2820
+  ],
+  "ls": 300,
+  "16x9": {
+   "ls": 186
+  },
+  "material": {
+   "type": "ink",
+   "color": "primary",
+   "texture": 0.7
+  },
+  "credit": {
+   "autor": "Kelly Sikkema",
+   "link": "https://unsplash.com/pt-br/fotografias/pessoa-segurando-caneta-preta-e-papel-redondo-branco-ro2HU1gHK8A",
+   "licenca": "Unsplash License"
+  }
+ },
+ "box": {
+  "file": "fotos/box.jpg",
+  "categoria": "papelaria",
+  "tom": 0.71,
+  "anchor": [
+   1547,
+   930
+  ],
+  "ls": 150,
+  "material": {
+   "type": "ink",
+   "color": "dark",
+   "texture": 0.9
+  },
+  "credit": {
+   "autor": "Ante Hamersmit",
+   "link": "https://unsplash.com/pt-br/fotografias/caixa-de-retencao-do-homem-U3AKT6ryvic",
+   "licenca": "Unsplash License"
+  }
+ },
+ "book": {
+  "file": "fotos/book.jpg",
+  "categoria": "papelaria",
+  "tom": 0.27,
+  "anchor": [
+   1584,
+   2267
+  ],
+  "ls": 300,
+  "16x9": {
+   "ls": 186
+  },
+  "erase": [
+   {
+    "type": "ellipse",
+    "e": [
+     1584,
+     2267,
+     190,
+     120
+    ],
+    "method": "patch",
+    "offset": [
+     500,
+     0
+    ],
+    "feather": 8
+   }
+  ],
+  "material": {
+   "type": "foil",
+   "dark": 0.35,
+   "bright": 0.95
+  },
+  "credit": {
+   "autor": "Hugo Vega",
+   "link": "https://unsplash.com/pt-br/fotografias/livro-cinza-com-um-pequeno-emblema-circular-marrom-avermelhado-padwX5ylPC4",
+   "licenca": "Unsplash License"
+  }
+ },
+ "acrylic": {
+  "file": "fotos/acrylic.jpg",
+  "categoria": "ambiente",
+  "tom": 0.48,
+  "anchor": [
+   1690,
+   1165
+  ],
+  "ls": 158,
+  "erase": [
+   {
+    "type": "rect",
+    "r": [
+     1300,
+     1000,
+     2080,
+     1350
+    ],
+    "method": "fill_dark_marks"
+   }
+  ],
+  "material": {
+   "type": "ink",
+   "color": "dark",
+   "texture": 0.5
+  },
+  "credit": {
+   "autor": "Waldemar Brandt",
+   "link": "https://unsplash.com/pt-br/fotografias/sinalizacao-marki-XFVoYhjVKX4",
+   "licenca": "Unsplash License"
+  }
+ },
+ "billboard": {
+  "file": "fotos/billboard.jpg",
+  "categoria": "ambiente",
+  "tom": 0.37,
+  "anchor": [
+   1592,
+   2128
+  ],
+  "ls": 225,
+  "16x9": {
+   "ls": 186
+  },
+  "material": {
+   "type": "ink",
+   "color": "primary",
+   "texture": 0.3
+  },
+  "credit": {
+   "autor": "Patrick Robert Doyle",
+   "link": "https://unsplash.com/pt-br/fotografias/outdoor-em-branco-no-ponto-de-onibus-noturno-csDVMvtsS50",
+   "licenca": "Unsplash License"
+  }
+ },
+ "glass": {
+  "file": "fotos/glass.jpg",
+  "categoria": "ambiente",
+  "tom": 0.7,
+  "anchor": [
+   1800,
+   2500
+  ],
+  "ls": 230,
+  "16x9": {
+   "ls": 186
+  },
+  "material": {
+   "type": "glass"
+  },
+  "credit": {
+   "autor": "Marina Nazina",
+   "link": "https://unsplash.com/pt-br/fotografias/divisoria-moderna-de-vidro-fosco-com-moldura-preta-o0aygXDzegs",
+   "licenca": "Unsplash License"
+  }
+ },
+ "neon": {
+  "file": "fotos/neon.jpg",
+  "categoria": "ambiente",
+  "tom": 0.28,
+  "anchor": [
+   1590,
+   2280
+  ],
+  "ls": 300,
+  "16x9": {
+   "ls": 186
+  },
+  "material": {
+   "type": "neon"
+  },
+  "credit": {
+   "autor": "Anastase Maragos",
+   "link": "https://unsplash.com/pt-br/fotografias/parede-de-tijolo-marrom-durante-a-noite-lZzlMYL7Q0Y",
+   "licenca": "Unsplash License"
+  }
+ },
+ "phone": {
+  "file": "fotos/phone.jpg",
+  "categoria": "digital",
+  "tom": 0.57,
+  "anchor": [
+   1860,
+   1500
+  ],
+  "ls": 240,
+  "16x9": {
+   "ls": 186
+  },
+  "material": {
+   "type": "screen_phone",
+   "rect": [
+    1262,
+    2490,
+    700,
+    3285,
+    170
+   ],
+   "notch_y": 950
+  },
+  "credit": {
+   "autor": "Mediamodifier",
+   "link": "https://unsplash.com/pt-br/fotografias/pessoa-segurando-iphone-branco-5-c-voRfgeyiBKA",
+   "licenca": "Unsplash License"
+  }
+ },
+ "laptop": {
+  "file": "fotos/laptop.jpg",
+  "categoria": "digital",
+  "tom": 0.73,
+  "anchor": [
+   1600,
+   1066
+  ],
+  "ls": 235,
+  "material": {
+   "type": "screen_color",
+   "lum_range": [
+    0.6,
+    0.85
+   ],
+   "max_sat": 0.05
+  },
+  "credit": {
+   "autor": "Devin Pickell",
+   "link": "https://unsplash.com/pt-br/fotografias/macbook-pro-na-mesa-branca-1eRS74C-alQ",
+   "licenca": "Unsplash License"
+  }
+ },
+ "watch": {
+  "file": "fotos/watch.jpg",
+  "categoria": "digital",
+  "tom": 0.53,
+  "anchor": [
+   1560,
+   1830
+  ],
+  "ls": 250,
+  "16x9": {
+   "ls": 186
+  },
+  "material": {
+   "type": "screen_watch",
+   "screen": [
+    595,
+    725,
+    215
+   ]
+  },
+  "credit": {
+   "autor": "Daniel Korpai",
+   "link": "https://unsplash.com/pt-br/fotografias/apple-watch-cinza-espacial-com-sports-band-preta-hbTKIbuMmBI",
+   "licenca": "Unsplash License"
+  }
+ }
+}

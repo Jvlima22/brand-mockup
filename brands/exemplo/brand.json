@@ -1,0 +1,17 @@
+{
+  "nome": "Marca Exemplo (fictícia, só para teste)",
+  "logo": "logo.svg",
+  "cores": { "primary": "#E4572E" },
+  "musica": { "estilo": "eletronica" },
+  "direcao": {
+    "categorias": ["digital", "merch"],
+    "quantidade": 10,
+    "tom": "misto",
+    "ordem": "alternada",
+    "graficos": true,
+    "graficos_a_cada": 3,
+    "abertura": true,
+    "fechamento": true,
+    "ritmo": 3
+  }
+}

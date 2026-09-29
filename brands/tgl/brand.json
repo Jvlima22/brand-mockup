@@ -1,0 +1,109 @@
+{
+  "nome": "TGL Solutions",
+  "logo": "logo.svg",
+  "cores": {
+    "primary": "#0F6CBD",
+    "dark": "#06182C",
+    "light": "#7CC4FF",
+    "background": "#FDFAFE",
+    "lockup_lines": "#BFD9F2",
+    "glow_a": "#8FD0FF",
+    "glow_b": "#1D6FE0"
+  },
+  "musica": {
+    "estilo": "cinematica"
+  },
+  "grid": {
+    "h_lines": [
+      0.2412,
+      0.7588
+    ],
+    "solid_x": [
+      0.4794,
+      0.5265
+    ],
+    "dashed_x": [
+      0.3353,
+      0.7162
+    ],
+    "cross": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "nodes_from": [
+      1,
+      2
+    ]
+  },
+  "construcao": [
+    {
+      "shape": "ellipse",
+      "e": [
+        0.5044,
+        0.5,
+        0.5044,
+        0.5044
+      ],
+      "solid_x_max": 0.3353
+    },
+    {
+      "shape": "ellipse",
+      "e": [
+        0.4794,
+        0.5,
+        0.1662,
+        0.5
+      ]
+    },
+    {
+      "shape": "ellipse",
+      "e": [
+        0.7162,
+        0.4971,
+        0.1544,
+        0.4529
+      ]
+    },
+    {
+      "shape": "ellipse",
+      "e": [
+        0.9456,
+        0.4882,
+        0.0456,
+        0.1353
+      ]
+    },
+    {
+      "shape": "ellipse",
+      "e": [
+        0.4838,
+        0.5,
+        0.3426,
+        0.5221
+      ],
+      "solid_x_max": 0.3353
+    },
+    {
+      "shape": "ellipse",
+      "e": [
+        0.5265,
+        0.4971,
+        0.0809,
+        0.3824
+      ],
+      "dashed": true
+    },
+    {
+      "shape": "ellipse",
+      "e": [
+        0.7544,
+        0.5059,
+        0.0735,
+        0.2588
+      ],
+      "dashed": true
+    }
+  ]
+}
